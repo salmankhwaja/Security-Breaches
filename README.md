@@ -10,7 +10,7 @@ This is small steps in documenting the Security Breaches happening around the wo
 |  Naheed SuperStore   |  Mar 2023    | Repudation    | [ProPakistani](https://propakistani.pk/2023/03/15/online-shopping-store-naheed-hacked-names-and-home-addresses-stolen/) | Breached - Customer Details |
 |  Prime Minister House   |  Mar 2023    | Repudation    | [ProPakistani](https://propakistani.pk/2022/09/26/massive-pm-house-security-breach-leaks-sensitive-audio-clips/) | Breached - Audio Clips |
 |  Justice Faez Isas IPhone   |  Feb 2021    | Repudation    | [ProPakistani](https://propakistani.pk/2021/02/02/justice-faez-isas-mobile-phone-hacked/) | Breached - IPhone of Critical Personnel |
-|  Karachi Electic   |  Sep 2020    | Repudation    | [ProPakistani](https://propakistani.pk/2020/09/29/hackers-threaten-to-leak-sensitive-data-after-k-electric-fails-to-pay-7-million/) | Breached - Data of Customers' of KE. |
+|  Karachi Electic   |  Sep 2020    | Repudation    | [ProPakistani](https://propakistani.pk/2020/09/29/hackers-threaten-to-leak-sensitive-data-after-k-electric-fails-to-pay-7-million/)  - [ProPakistani1](https://propakistani.pk/2020/09/07/k-electrics-internal-systems-go-down-after-cyber-attack/)| Breached - Data of Customers' of KE. |
 
 
 Additionally, one could browse the below-mentioned resources to be in touch with the Pakistani scene of Security issues. 

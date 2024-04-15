@@ -21,3 +21,15 @@ This is small steps in documenting the Security Breaches happening around the wo
 Additionally, one could browse the below-mentioned resources to be in touch with the Pakistani scene of Security issues. 
 https://propakistani.pk/category/others/industry/cyber-crime/
 
+Let your imagination run wild here ;)
+https://tribune.com.pk/Cyber-attacks
+https://tribune.com.pk/cyber-security
+https://tribune.com.pk/Pakistani-Banks
+https://tribune.com.pk/Pakistani-Breaches
+
+
+https://tribune.com.pk/feed/business
+https://tribune.com.pk/feed/home
+https://tribune.com.pk/feed/home
+
+

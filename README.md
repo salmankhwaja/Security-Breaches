@@ -13,7 +13,6 @@ This is small steps in documenting the Security Breaches happening around the wo
 |  Karachi Electic   |  Sep 2020    | Repudation    | [ProPakistani](https://propakistani.pk/2020/09/29/hackers-threaten-to-leak-sensitive-data-after-k-electric-fails-to-pay-7-million/) | Breached - Data of Customers' of KE. |
 
 
-https://propakistani.pk/2020/09/29/hackers-threaten-to-leak-sensitive-data-after-k-electric-fails-to-pay-7-million/
 Additionally, one could browse the below-mentioned resources to be in touch with the Pakistani scene of Security issues. 
 https://propakistani.pk/category/others/industry/cyber-crime/
 

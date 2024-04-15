@@ -12,7 +12,7 @@ This is small steps in documenting the Security Breaches happening around the wo
 |  Justice Faez Isas IPhone   |  Feb 2021    | Repudation    | [ProPakistani](https://propakistani.pk/2021/02/02/justice-faez-isas-mobile-phone-hacked/) | Breached - IPhone of Critical Personnel |
 |  Karachi Electic   |  Sep 2020    | Repudation    | [ProPakistani](https://propakistani.pk/2020/09/29/hackers-threaten-to-leak-sensitive-data-after-k-electric-fails-to-pay-7-million/)  - [ProPakistani1](https://propakistani.pk/2020/09/07/k-electrics-internal-systems-go-down-after-cyber-attack/)| Breached - Data of Customers' of KE. |
 |  Bank Islami   |  Oct 2018    | Repudation    | [Dawn](https://www.dawn.com/news/1442324) - [Rewters](https://www.rewterz.com/articles/bankislami-hit-by-cyber-attack-6-million-stolen) - [Profit](https://profit.pakistantoday.com.pk/2018/10/29/bankislami-becomes-victim-of-6-5-million-cyber-attack/) | Breached - 6.5 Million USD + Repudation |
-|  ProPakistani Website   |  Aug 2013    | Repudation    | [InfoPakistan](https://www.infopakistan.pk/pakistan-it-and-telecom-news-blog-propakistani-pk-got-hacked/) | Breached - Audio Clips |
+|  ProPakistani Website   |  Aug 2013    | Repudation    | [InfoPakistan](https://www.infopakistan.pk/pakistan-it-and-telecom-news-blog-propakistani-pk-got-hacked/) | Breached - Website |
 
 Additionally, one could browse the below-mentioned resources to be in touch with the Pakistani scene of Security issues. 
 https://propakistani.pk/category/others/industry/cyber-crime/
